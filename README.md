@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+To open the deployed link of counter-app  [Click Here](https://613609779d12cd826b4c991f--admiring-bohr-d163a2.netlify.app).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
